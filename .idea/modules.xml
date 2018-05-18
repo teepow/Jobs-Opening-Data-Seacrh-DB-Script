@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JobsDB.iml" filepath="$PROJECT_DIR$/.idea/JobsDB.iml" />
+      <module fileurl="file://$USER_HOME$/code/Random-Movie-Generator/.idea/Random-Movie-Generator.iml" filepath="$USER_HOME$/code/Random-Movie-Generator/.idea/Random-Movie-Generator.iml" />
+      <module fileurl="file://$USER_HOME$/code/fileserver/.idea/fileserver.iml" filepath="$USER_HOME$/code/fileserver/.idea/fileserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hitapp/.idea/hitapp.iml" filepath="$PROJECT_DIR$/../hitapp/.idea/hitapp.iml" />
+    </modules>
+  </component>
+</project>
